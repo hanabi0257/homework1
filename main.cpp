@@ -2,7 +2,7 @@
 using namespace std;
 
 void foo() {
-    cout << "It¡¦s foo!!" << endl;
+    cout << "Itâ€™s foo!!" << endl;
 }
 
 void bar() {
